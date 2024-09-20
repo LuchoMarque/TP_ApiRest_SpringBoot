@@ -7,8 +7,8 @@ Al ejecutar este proyecto creara en la base de datos las tablas
 - Autor
 - Domiclio
 - Localidad <br/>
-Todas con su correspondiente auditoria
-Luego utilizando Postman se puede
+Todas con su correspondiente auditoria <br/>
+Luego utilizando Postman se puede <br/>
 - Actualizar
 - Eliminar
 - Ver según id
