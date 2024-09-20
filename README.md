@@ -6,7 +6,7 @@ Al ejecutar este proyecto creara en la base de datos las tablas
 - Libro
 - Autor
 - Domiclio
-- Localidad
+- Localidad <br/>
 Todas con su correspondiente auditoria
 Luego utilizando Postman se puede
 - Actualizar
